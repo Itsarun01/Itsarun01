@@ -13,5 +13,3 @@ Notable Woork
 Contact
 - Email: hiarun.works@gmail.com
 - Website: https://www.hiarun.com
----
-![Profile Views](https://komarev.com/ghpvc/?username=hiarun02&color=blue&style=flat)
